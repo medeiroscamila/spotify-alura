@@ -23,7 +23,7 @@ Camila Medeiros
 
 ## Screenshot
 
-![Imagem do Projeto](screenshots/screenshot.png)
+![Imagem do Projeto](screenschot-projeto/projeto.png)
 
 ## Licença
 
