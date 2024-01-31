@@ -1,6 +1,6 @@
 # Imersão Front-end Alura 2024 - Spotify Clone
 
-### Projeto
+## Projeto
 
 Desenvolvimento da landing page do Spotify durante a Imersão Front-end da Alura. Foram abordados conceitos fundamentais de HTML, CSS e JavaScript, com o uso de ferramentas modernas.
 
@@ -9,7 +9,7 @@ Desenvolvimento da landing page do Spotify durante a Imersão Front-end da Alura
 - **HTML**
 - **CSS (Flexbox, Grid)**
 - **JavaScript (Manipulação do DOM)**
-- **[Json-Server](https://github.com/typicode/json-server)** para simular uma API fictícia
+- **Json-Server para simular uma API fictícia**
 
 ## Instrutores
 
@@ -19,13 +19,10 @@ Desenvolvimento da landing page do Spotify durante a Imersão Front-end da Alura
 
 ## Autora do Projeto
 
-Camila Medeiros
+- Camila Medeiros
 
 ## Screenshot
 
 ![Imagem do Projeto](screenschot-projeto/projeto.png)
 
-## Licença
-
-MIT License
 
