@@ -2,7 +2,7 @@
 
 ## Projeto
 
-Desenvolvimento da landing page do Spotify durante a Imersão Front-end da Alura. Foram abordados conceitos fundamentais de HTML, CSS e JavaScript, com o uso de ferramentas modernas.
+Desenvolvimento da landing page do Spotify durante a Imersão Front-end da Alura.
 
 ## Tecnologias e Ferramentas Utilizadas
 
