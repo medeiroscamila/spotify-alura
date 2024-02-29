@@ -1,4 +1,5 @@
-# Imersão Front-end Alura 2024 - Spotify Clone
+# Imersão Front-end Alura 2024 - Spotify Clone ![GitHub License](https://img.shields.io/github/license/medeiroscamila/spotify-alura)
+
 
 ## Projeto
 
