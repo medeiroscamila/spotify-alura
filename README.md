@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <h1 align="center">Spotify Clone </h1>
+  <h1 align="center">Spotify Alura</h1>
   
 </div>
 
