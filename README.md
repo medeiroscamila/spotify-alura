@@ -107,7 +107,7 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/med
 ## Desenvolvedores 👩‍💻
 
 
- [Camila Medeiros](https://github.com/medeiroscamila)
+`Camila Medeiros` 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
